@@ -3,6 +3,7 @@
 A sleek and responsive landing page dedicated to showcasing the **Google Pixel Watch 2** — designed with precision, powered by creativity.  
 Built entirely using **Tailwind CSS**, this project reflects a modern approach to web design and clean UI architecture.
 
+Here is a deployed version of the website: https://google-pixel-watch-2-shwetha.vercel.app/
 ---
 
 ## 🚀 Project Overview
